@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.luo.mapper.ChemicalChannelMapper">
+
+    <!-- 通用查询映射结果 -->
+    <resultMap id="BaseResultMap" type="com.luo.entity.ChemicalChannel">
+        <id column="id" property="id" />
+        <result column="channel_number" property="channelNumber" />
+        <result column="channel_length" property="channelLength" />
+        <result column="channel_location" property="channelLocation" />
+        <result column="industry" property="industry" />
+        <result column="shipment" property="shipment" />
+        <result column="material" property="material" />
+        <result column="length" property="length" />
+        <result column="width" property="width" />
+        <result column="high" property="high" />
+        <result column="depth" property="depth" />
+        <result column="burying_method" property="buryingMethod" />
+    </resultMap>
+
+</mapper>
