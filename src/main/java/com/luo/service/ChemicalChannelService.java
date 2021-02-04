@@ -8,7 +8,7 @@ import com.baomidou.mybatisplus.extension.service.IService;
  * 危化管道 服务类
  * </p>
  *
- * @author 大哥桦
+ * @author 大哥桦sssssssssssssssssssssssssssssssss
  * @since 2020-11-25
  */
 public interface ChemicalChannelService extends IService<ChemicalChannel> {
