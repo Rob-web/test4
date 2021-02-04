@@ -65,7 +65,8 @@ public class ChemicalChannel implements Serializable {
     /**
      * 长度（m）
      */
-    private Double length;
+    private Double lendsdsdsdgth;
+    private
 
     /**
      * 宽度（mm）
