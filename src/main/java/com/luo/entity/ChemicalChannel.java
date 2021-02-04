@@ -35,7 +35,7 @@ public class ChemicalChannel implements Serializable {
     /**
      * 管线编号
      */
-    private String channelNumber;
+    private String 111111111111111111111111111r;
 
     /**
      * 管线长度（m）
